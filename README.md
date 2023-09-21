@@ -4,4 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheON2&show_icons=true&theme=Gradient)
 # THEON2 VELOG
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=theon2&tag=TIL)](https://velog.io/@theon2?tag=TIL)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=theon2&tag=프로젝트)](https://velog.io/@theon2?tag=프로젝트)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=theon2&tag=개발일지)](https://velog.io/@theon2?tag=개발일지)
