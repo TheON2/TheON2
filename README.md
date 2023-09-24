@@ -3,5 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheON2&layout=donut&hide=python)](https://github.com/TheON2/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheON2&show_icons=true&theme=Gradient)
 # THEON2 VELOG
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=theon2&tag=TIL)](https://velog.io/@theon2?tag=TIL)
+[!![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=theon2&tag=TIL&width=500&height=300)](https://velog.io/@theon2?tag=TIL)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=theon2&tag=개발일지)](https://velog.io/@theon2?tag=개발일지)
